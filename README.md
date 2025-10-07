@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://t.me/Cypher_Squad" target="_blank">
+<a href="https://t.me/GODXGENSHIN" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%232E3440.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -76,4 +76,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=D39D55&width=420&lines=Thanks+for+visiting!">
 </div>
 
-<br clear="both">user
+<br clear="both">
